@@ -1,0 +1,5 @@
+ this is second txt in git
+ i use it test git add and git commit
+ git is like DBOX which is a software developed by HuaWei
+ i my opinion 
+ DBOX is converient than git
