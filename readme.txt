@@ -17,3 +17,6 @@
 1、git使用学习
 2、Jmeter+Badboy安装并初步使用
 3、熟悉OA的系统操作
+
+1、here is test line
+2、i dont know what to say
