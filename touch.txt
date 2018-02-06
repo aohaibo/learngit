@@ -12,6 +12,11 @@
  this line is test creat a branch
  the branch name is dev
  now i have two branch: dev master
+<<<<<<< HEAD
  aha,what will happen?
  i had commit this txt in branch dev
  and commit it in master again
+ now i come again
+ i think git is not hard to learn
+ so easy
+ click it if only you ni dont know it
