@@ -6,4 +6,6 @@ just do it
 i want to go home
 dont know why
 attend
-absoultely
+remember your dream
+never give up
+come on
