@@ -18,5 +18,6 @@
 2、Jmeter+Badboy安装并初步使用
 3、熟悉OA的系统操作
 
-1、here is test line
-2、i dont know what to say
+2018/02/06
+1、进一步学习git的使用，基本的创建、提交、回退等已经熟练！
+2、在GitHub上创建了一个远程库
