@@ -3,3 +3,10 @@
  git is like DBOX which is a software developed by HuaWei
  i my opinion 
  DBOX is converient than git
+
+ this is test git checkout line
+ git used like linux command
+ let me test checkout again
+ i dont know why last time is failed
+ god bless me
+
