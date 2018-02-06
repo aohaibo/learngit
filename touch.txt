@@ -12,3 +12,7 @@
  this line is test creat a branch
  the branch name is dev
  now i have two branch: dev master
+ now i come again
+ i think git is not hard to learn
+ so easy
+ click it if only you ni dont know it
